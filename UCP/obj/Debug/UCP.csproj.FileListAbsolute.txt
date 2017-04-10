@@ -1,0 +1,6 @@
+c:\users\bryan\documents\visual studio 2015\Projects\UCPSolution\UCP\bin\Debug\UCP.exe.config
+c:\users\bryan\documents\visual studio 2015\Projects\UCPSolution\UCP\bin\Debug\UCP.exe
+c:\users\bryan\documents\visual studio 2015\Projects\UCPSolution\UCP\bin\Debug\UCP.pdb
+c:\users\bryan\documents\visual studio 2015\Projects\UCPSolution\UCP\obj\Debug\UCP.csprojResolveAssemblyReference.cache
+c:\users\bryan\documents\visual studio 2015\Projects\UCPSolution\UCP\obj\Debug\UCP.exe
+c:\users\bryan\documents\visual studio 2015\Projects\UCPSolution\UCP\obj\Debug\UCP.pdb
